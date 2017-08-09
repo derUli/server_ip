@@ -1,2 +1,2 @@
-# server_ip
-Show Server IP
+# display_php_version
+Display PHP Version at UliCMS
